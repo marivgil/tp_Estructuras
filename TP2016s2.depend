@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1479063030 source:c:\users\sawad\desktop\tp2016s2\cliente.cpp
+	"Cliente.h"
+
+1479691149 "
+
+1479060583 c:\users\sawad\desktop\tp2016s2\cliente.h
+	<iostream>
+
+1479695929 
+
+1479081807 source:c:\users\sawad\desktop\tp2016s2\map.cpp
+	"Map.h"
+
+1479082850 source:c:\users\sawad\desktop\tp2016s2\main.cpp
+	<iostream>
+	"Map.h"
+
+1479062957 source:c:\users\sawad\desktop\tp2016s2\list.cpp
+	"list.h"
+
+1465171699 c:\users\sawad\desktop\tp2016s2\list.h
+	<iostream>
+
+1479080846 source:c:\users\sawad\desktop\tp2016s2\arraylist.cpp
+	"ArrayList.h"
+
+1479080846 .h"
+
+1479080795 c:\users\sawad\desktop\tp2016s2\arraylist.h
+	<iostream>
+
+1479079284 c:\users\sawad\desktop\tp2016s2\map.h
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"ArrayList.h"
+
+1479080846 source:e:\ed\tps\2016s2\pre-entrega (completo)\arraylist.cpp
+	"ArrayList.h"
+
+1479080795 e:\ed\tps\2016s2\pre-entrega (completo)\arraylist.h
+	<iostream>
+
+1479691149 source:e:\ed\tps\2016s2\pre-entrega (completo)\cliente.cpp
+	"Cliente.h"
+
+1479691154 e:\ed\tps\2016s2\pre-entrega (completo)\cliente.h
+	<iostream>
+
+1480133971 source:e:\ed\tps\2016s2\pre-entrega (completo)\main.cpp
+	<iostream>
+	"Lavadero.h"
+
+1480134093 h"
+
+1479514144 e:\ed\tps\2016s2\pre-entrega (completo)\map.h
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"ArrayList.h"
+
+1480134093 source:e:\ed\tps\2016s2\pre-entrega (completo)\lavadero.cpp
+	"Lavadero.h"
+
+1479678952 source:e:\ed\tps\2016s2\pre-entrega (completo)\map.cpp
+	"Map.h"
+
+1480134024 e:\ed\tps\2016s2\pre-entrega (completo)\lavadero.h
+	<iostream>
+	"Map.h"
+	"SetPlanes.h"
+
+1479695929 source:e:\ed\tps\2016s2\pre-entrega (completo)\plan.cpp
+	"Plan.h"
+
+1479695278 e:\ed\tps\2016s2\pre-entrega (completo)\plan.h
+	<iostream>
+	"ArrayList.h"
+
+1479695278 e:\ed\tps\2016s2\pre-entrega (completo)\setclientes.h
+	<iostream>
+	"ArrayList.h"
+
+1480127369 e:\ed\tps\2016s2\pre-entrega (completo)\setplanes.h
+	<iostream>
+	"ArrayList.h"
+
+1480134228 source:e:\ed\tps\2016s2\pre-entrega (completo)\setplanes.cpp
+	"SetPlanes.h"
+
+1479080846 source:e:\ed\tps\2016s2\codigo (incompleto)\arraylist.cpp
+	"ArrayList.h"
+
+1479080795 e:\ed\tps\2016s2\codigo (incompleto)\arraylist.h
+	<iostream>
+
+1479691149 source:e:\ed\tps\2016s2\codigo (incompleto)\cliente.cpp
+	"Cliente.h"
+
+1479691154 e:\ed\tps\2016s2\codigo (incompleto)\cliente.h
+	<iostream>
+
+1479080846 source:/home/maricruz/Escritorio/TP (final)/Codigo/ArrayList.cpp
+	"ArrayList.h"
+
+1479080795 /home/maricruz/Escritorio/TP (final)/Codigo/ArrayList.h
+	<iostream>
+
+1480169670 source:/home/maricruz/Escritorio/TP (final)/Codigo/Cliente.cpp
+	"Cliente.h"
+
+1479691154 /home/maricruz/Escritorio/TP (final)/Codigo/Cliente.h
+	<iostream>
+
+1481984275 source:/home/maricruz/Escritorio/TP (final)/Codigo/main.cpp
+	<iostream>
+	"Lavadero.h"
+
+1481977962 /home/maricruz/Escritorio/TP (final)/Codigo/Lavadero.h
+	<iostream>
+	"Map.h"
+	"SetPlanes.h"
+
+1481978759 /home/maricruz/Escritorio/TP (final)/Codigo/Map.h
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"ArrayList.h"
+
+1481978661 /home/maricruz/Escritorio/TP (final)/Codigo/SetPlanes.h
+	<iostream>
+	"ArrayList.h"
+
+1481983461 source:/home/maricruz/Escritorio/TP (final)/Codigo/Map.cpp
+	"Map.h"
+
+1481981771 source:/home/maricruz/Escritorio/TP (final)/Codigo/Lavadero.cpp
+	"Lavadero.h"
+
+1481981831 source:/home/maricruz/Escritorio/TP (final)/Codigo/SetPlanes.cpp
+	"SetPlanes.h"
+
